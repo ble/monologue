@@ -65,6 +65,8 @@ You can make new monologues and either read or add to existing monologues.
 
 `monologue make my_soliloquy` creates the file my_soliloquy and starts adding
 text to it.
-`monologue add my_soliloquy` adds text to my_soliloquy
+
+`monologue add my_soliloquy` adds text to my_soliloquy.
+
 `monologue read my_soliloquy` prints the text recorded in my_soliloquy,
 complete with timestamps.
