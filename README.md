@@ -7,6 +7,11 @@ finish a session of adding text.
 
 You can view your monologue complete with timestamps, too.
 
+Why'd you write it?
+-------------------
+
+* to make something slightly less trivial in Haskell
+
 An example
 ----------
 
