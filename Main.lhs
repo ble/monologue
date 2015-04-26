@@ -1,6 +1,6 @@
 >import Control.Monad(when, unless)
 
->import System(getArgs)
+>import System.Environment(getArgs)
 >import System.Directory(doesFileExist)
 >import System.Exit(exitFailure)
 

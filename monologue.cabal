@@ -8,12 +8,11 @@ Cabal-Version:       >=1.2
 Executable monologue
   Main-is:           Main.lhs
   Build-Depends:
-    base >= 3 && < 5,
+    haskell2010 >= 1.1,
     time >= 1.2,
     mtl >= 2,
     old-locale >= 1,
     HDBC-sqlite3 >= 2.3,
     HDBC >= 2.3,
-    directory >= 1.1,
-    haskell98 >= 1.1
+    directory >= 1.1
 
